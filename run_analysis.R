@@ -1,7 +1,5 @@
 # Getting and Cleaning Data - peer assess 1
 setwd("~/Desktop/Classes/Getting and cleaning data/Programming Assignments")
-library(plyr)
-library(data.table)
 library(reshape2)
 #data is stored in a data folder
 subFolder <- c("./UCI HAR Dataset/") # update this if you've moved the folders around
